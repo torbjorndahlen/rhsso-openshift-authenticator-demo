@@ -1,0 +1,1 @@
+# rhsso-openshift-authenticator-demo
